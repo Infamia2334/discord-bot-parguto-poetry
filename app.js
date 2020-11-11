@@ -1,4 +1,4 @@
-// NzcyOTE0Mjc4MDAwODg1Nzgw.X6Bmgw.rzcVWwprW1o0pgJ6u8TOPSTsld0(bot-token)
+
 
 const Discord = require("discord.js");
 // create a new Discord client
