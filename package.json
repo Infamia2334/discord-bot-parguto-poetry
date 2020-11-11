@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-parguto-poetry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infamia2334/parguto-discord-bot.git"
+  },
+  "author": "Dipan Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Infamia2334/parguto-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Infamia2334/parguto-discord-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "discord.js": "^12.4.1"
+  }
+}
